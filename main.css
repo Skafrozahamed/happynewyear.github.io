@@ -186,13 +186,13 @@ body{
 
 @media (min-aspect-ratio: 16/9){
     .back-video{
-        width: 100%;
-        height: auto;
+        width: auto;
+        height: 100%;
     }
 }
 @media (max-aspect-ratio: 16/9){
     .back-video{
-        width: 100%;
-        height: auto;
+        width: auto;
+        height: 100%;
     }
 }
